@@ -1,2 +1,3 @@
-# Plant-Disease-Image-Detection
-The goal of this project is to develop a robust and efficient image detection system that can accurately identify and classify diseases in plants from images. This system aims to assist farmers, agronomists, and agricultural professionals in early detection and diagnosis of plant diseases, thereby enabling timely intervention and management practices to reduce crop losses and improve yield.
+Image Recognition Cats vs Dogs
+
+The "Cats vs Dogs Image Detection" project aims to develop a robust machine learning model capable of accurately classifying images of cats and dogs. Utilizing deep learning techniques, particularly convolutional neural networks (CNNs), this project will create a system that can distinguish between cats and dogs with high accuracy. The model will be trained on a dataset of labeled images, optimized, and evaluated to ensure reliable performance.
